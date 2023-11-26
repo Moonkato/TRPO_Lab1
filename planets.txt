@@ -1,4 +1,4 @@
 Earth
-Mars
 Moon
+Mars
 Sun
